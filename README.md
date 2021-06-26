@@ -1,3 +1,4 @@
+
 # VBA of Wall Street
 
 ## Overview of Project
@@ -21,18 +22,18 @@ The stocks that remain consistent in their growth percentage from 2017 to 2018, 
 
 After refactoring the code, I can confirm that the stock analysis outputs for 2017 and 2018 are the same as the dataset we completed in the initial code earlier, and the screen shot of earlier analysis are as follows... 
 
-![alt tag](https://github.com/elrvra/stock-analysis/blob/main/VBA_Challenege_Analyses_Before_And_After_Refactoring.png)
+![alt tag](https://github.com/elrvra/stock-analysis/blob/master/VBA_Challenege_Analyses_Before_And_After_Refactoring.png)
 
 Additionally, the code that was required to be refactored, as per the Deliverable requirements and with explanation are as follows... 
 
-![alt tag](https://github.com/elrvra/stock-analysis/blob/main/VBA_Challenege_Screenshot_of_Code.png)
+![alt tag](https://github.com/elrvra/stock-analysis/blob/master/VBA_Challenege_Screenshot_of_Code.png)
 
 ### Compare the execution times from the original script and the refactored script
 - For 2017, refactoring did cut down the execution time from the original script by -0.437500
 - For 2018, refacoring increased the execution time from the original script by +0.031250
 These changes can be shown in the tables as follows... 
 
-![alt tag](https://github.com/elrvra/stock-analysis/blob/main/VBA_Challenege_Analyses_Before_And_After_Refactoring.png)
+![alt tag](https://github.com/elrvra/stock-analysis/blob/master/VBA_Challenege_Analyses_Before_And_After_Refactoring.png)
 
 ## Summary
 
